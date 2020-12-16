@@ -14,10 +14,10 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_kenzo.mk
+    $(LOCAL_DIR)/corvus_kenzo.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_kenzo-user \
-    aosp_kenzo-userdebug \
-    aosp_kenzo-eng
+    corvus_kenzo-user \
+    corvus_kenzo-userdebug \
+    corvus_kenzo-eng
 
